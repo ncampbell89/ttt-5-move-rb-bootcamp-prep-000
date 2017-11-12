@@ -6,5 +6,4 @@ puts "Welcome to Tic Tac Toe!"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Where would you like to go?"
-input = gets.strip
-user_input = board[i]
+user_input = gets.strip
